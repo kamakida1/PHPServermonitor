@@ -1,0 +1,108 @@
+body,tr,td {
+	margin:0px;
+	font:tahoma;
+	font-size:12px;
+}
+.toppic_menu{
+	background-color:#4B4B4B;
+	color:#FFFFFF;
+	font-weight:bold;
+	border-bottom:#FFFFFF 1px solid;
+	padding-left:10px;
+	}
+
+.menu_link,.menu_link:link,.menu_link:active,.menu_link:visited{
+	border-bottom:#E6E6E6 1px solid;
+	color:#767676;
+	padding-left:10px;
+	background-color:#CCCCCC;
+	display:block;
+	width:100%;
+	height:100%;
+	text-decoration:none;
+
+}
+.menu_link:hover{
+	text-decoration:underline;
+	color:#000000;
+	background-color:#A8A8A8;
+}
+.top_table{
+	background-image:url(images/toptable_01.gif);
+	padding:2px 10px 2px 10px;
+	font-weight:bold;
+	color:#FFFFFF;
+	border-bottom: 1px solid #666666;
+}
+
+.table_label{
+	color:#000000;
+	font-weight:bold;
+	padding:5px;
+	background-color:#CCCCCC;
+}
+.table_data1{
+	padding:5px;
+	background-color:#efefef;
+}
+.table_data2{
+	padding:5px;
+	background-color:#ffffff;
+}
+.table_data3{
+	border-right: 1px solid #666666;
+}
+.status_normal{
+	width:100%;
+	display:block;
+	background-color:#7CC576;
+	border:1px solid #009900;
+	padding:1px;
+
+}
+.status_warn{
+	width:100%;
+	display:block;
+	background-color:#FFF9AD;
+	border:1px solid #FEAF05;
+	padding:1px;
+}
+.status_critical{
+	width:100%;
+	display:block;
+	background-color:#F69679;
+	border:1px solid #9E0B0E;
+	padding:1px;
+}
+.white_text_bold{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.monitor_table{
+margin-top:2px;
+	border:1px #666666 solid;
+}
+.monitor_link,.monitor_link:link,.monitor_link:active,.monitor_link:visited{
+	color:#000000;
+	text-decoration:none;
+
+}
+.monitor_link:hover{
+	text-decoration:underline;
+	color:#000000;
+}
+.monitor_link2,.monitor_link2:link,.monitor_link2:active,.monitor_link2:visited{
+	color:#000000;
+	text-decoration:underline;
+}
+.monitor_link2:hover{
+	text-decoration:none;
+	color:#000000;
+}
+.monitor_table_head{
+	background-image:url(images/toptable_01.gif);
+	padding:2px 10px 2px 10px;
+	font-weight:bold;
+	color:#FFFFFF;
+	border-bottom: 1px solid #666666;
+}
